@@ -76,7 +76,7 @@ The project applies various data analysis techniques, including:
 -   **Cleaning and restructuring**: Using `dplyr`, `tidyr`, and `stringr` to filter, rename, and reformat columns.
 -   **Feature engineering**: Creating economic score variables, population ranks, and relative life expectancy measures.
 
-### **Exploratory Data Analysis** 
+### **Exploratory Data Analysis**
 
 -   **Visualizing trends and distributions** using `ggplot2`.
 -   **Creating interactive maps** with `ggiraph` and `ggplot2`.
@@ -100,4 +100,4 @@ The project applies various data analysis techniques, including:
 
 ## Author
 
--   **Chenyi Dai**\
+-   **Chenyi Dai**
