@@ -41,7 +41,6 @@ This will output the directory tree structure:
 │   │   └── gm-wrangled-goal.csv  # Post-wrangling Gapminder dataset 
 │   └── raw/                
 │       └── gapminder.csv     # Raw Gapminder dataset
-├── docs/                     # Documentation and additional references
 ├── references/               # Bibliography and external sources
 ├── reports/                  # Generated reports from analyses
 ├── scripts/                  
